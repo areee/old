@@ -1,4 +1,4 @@
-# Arttu Ylhävuori (alias areee)
+# Arttu Ylhävuori (areee)
 
 ## Tietoja minusta
 
@@ -14,7 +14,7 @@
 
 ### TIEA1 (Käyttöliittymien perusteet)
 - [SH0](https://areee.github.io/tiea1_sh0/)
-- SH1
+- [SH1](https://areee.github.io/tiea1_sh1/)
 - SH2
 
 ### TIEVA31 (Principles of Programming Graphical User Interfaces)
