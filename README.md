@@ -23,7 +23,7 @@ Lue lisää työtaustastani [LinkedIn-profiilistani](https://www.linkedin.com/in
 - [Suunnitteluharjoitus 2 (SH2)](https://areee.github.io/tiea1_sh2/)
 
 ### TIEVA31 (Principles of Programming Graphical User Interfaces)
-- tehtävät
+- linkit TBA
 
 ### TIEVA33 (Tietokoneavusteinen opetus)
-- Näyttölaskuri -Android-sovellus
+- [Näyttölaskuri](https://github.com/areee/RiippuvaisApp) -Android-sovellus
