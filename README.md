@@ -4,7 +4,7 @@
 
 Moro! Olen 23-vuotias filosofian ylioppilas Tampereen yliopistosta. Taustallani on kaksi vuotta tietojenkäsittelytieteen opintoja Helsingin yliopistossa ja yksi vuosi tietojenkäsittelytieteen opintoja Tampereella. "Käpistelyn" lisäksi olen opiskellut muun muassa kasvatustieteen perusopinnot (25 op) ja myös jonkin verran muita sivuaineita.
 
-Työskentelen parhaillaan Helsingin yliopistossa [tutkimusavustajan tittelillä](https://www.cs.helsinki.fi/people/ylhavuor) tietojenkäsittelyn resurssikeskus [Linkissä](http://linkki.cs.helsinki.fi/), jossa työtehtäviini kuuluu mm. lasten ja nuorten ohjelmointikerhojen ohjaaminen ja ohjelmointikerhomateriaalien suunnittelu ja toteutus.
+Työskentelen parhaillaan Helsingin yliopistossa [tutkimusavustajan tittelillä](https://www.cs.helsinki.fi/people/ylhavuor) tietojenkäsittelyn resurssikeskus [Linkissä](http://linkki.cs.helsinki.fi/), jossa olen mukana mm. lasten ja nuorten ohjelmointikerhojen ohjaamisessa ja ohjelmointikerhomateriaalien suunnittelussa ja toteutuksessa.
 
 Lue lisää työtaustastani [LinkedIn-profiilistani](https://www.linkedin.com/in/arttuylh/) ja tutustu alle nostamiini tuotoksiini. Lisää tuotoksiani löytyy myös [Github-profiilistani](https://github.com/areee/).
 
