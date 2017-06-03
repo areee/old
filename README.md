@@ -13,7 +13,7 @@
 ## Tuotokseni
 
 ### TIEA1 (Käyttöliittymien perusteet)
-- SH0
+- [SH0](https://areee.github.io/tiea1_sh0/)
 - SH1
 - SH2
 
