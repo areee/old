@@ -6,7 +6,7 @@ Moro! Olen 23-vuotias filosofian ylioppilas Tampereen yliopistosta. Taustallani 
 
 Työskentelen parhaillaan Helsingin yliopistossa tutkimusavustajan tittelillä tietojenkäsittelyn resurssikeskus Linkissä, jossa työtehtäviini kuuluu mm. lasten ja nuorten ohjelmointikerhojen ohjaaminen ja ohjelmointikerhomateriaalien suunnittelu ja toteutus.
 
-Lue lisää työtaustastani [LinkedIn-profiilistani](https://www.linkedin.com/in/arttuylh/) ja tutustu [Github-profiilistani](https://github.com/areee/) löytyviin tuotoksiini.
+Lue lisää työtaustastani [LinkedIn-profiilistani](https://www.linkedin.com/in/arttuylh/) ja tutustu alle nostamiini tuotoksiini. Lisää tuotoksiani löytyy myös [Github-profiilistani](https://github.com/areee/).
 
 ### Ota yhteyttä ja seuraa
 - Sähköposti: arttu piste ylhavuori ät cs piste helsinki piste fi
