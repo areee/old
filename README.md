@@ -40,4 +40,4 @@ Lue lisää työtaustastani [LinkedIn-profiilistani](https://www.linkedin.com/in
 ### ITIY3 (Verkkojulkaisun perusteet)
 - Tekemäni tehtävät ja harjoitukset listattuna [yhteen HTML-dokumenttiin](http://people.uta.fi/~ay98625/itiy3/info.html)
 
-Tässä oli vain muutamia nostoja tuotoksistani. Jos haluat meikäläisen taidoista, tutustu [Github-profiiliini](https://github.com/areee/), [LinkedIn-profiiliini](https://www.linkedin.com/in/arttuylh/) tai [ota suoraan yhteyttä](mailto:arttu.ylhavuori(at)cs.helsinki.fi)!
+Tässä oli vain muutamia nostoja tuotoksistani. Jos haluat lisätietoja meikäläisestä, tutustu [Github-profiiliini](https://github.com/areee/), [LinkedIn-profiiliini](https://www.linkedin.com/in/arttuylh/) tai [ota suoraan yhteyttä](mailto:arttu.ylhavuori(at)cs.helsinki.fi)!
