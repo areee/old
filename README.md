@@ -2,7 +2,7 @@
 
 ## Tietoja minusta
 
-Moro! Olen 23-vuotias filosofian ylioppilas Tampereen yliopistosta. Taustallani on kaksi vuotta tietojenkäsittelytieteen opintoja Helsingin yliopistossa ja yksi vuosi tietojenkäsittelytieteen opintoja Tampereella. Tietojenkäsittelyn lisäksi olen opiskellut muun muassa kasvatustieteen perusopinnot (25 op), matematiikkaa sekä informaatiotutkimusta.
+Moro! Olen 23-vuotias filosofian ylioppilas Tampereen yliopistosta. Taustallani on kaksi vuotta tietojenkäsittelytieteen opintoja Helsingin yliopistossa ja yksi vuosi tietojenkäsittelytieteen opintoja Tampereella. Tietojenkäsittelyn lisäksi olen opiskellut muun muassa kasvatustieteen perusopinnot (25 op), matematiikkaa ja informaatiotutkimusta.
 
 Työskentelen parhaillaan Helsingin yliopistossa [tutkimusavustajan tittelillä](https://www.cs.helsinki.fi/people/ylhavuor) tietojenkäsittelyn resurssikeskus [Linkissä](http://linkki.cs.helsinki.fi/), jossa olen mukana muun muassa lasten ja nuorten ohjelmointikerhojen ohjaamisessa ja ohjelmointikerhomateriaalien suunnittelussa ja toteutuksessa.
 
