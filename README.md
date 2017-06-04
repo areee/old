@@ -35,7 +35,7 @@ Lue lisää työtaustastani [LinkedIn-profiilistani](https://www.linkedin.com/in
 - [Näyttölaskuri](https://github.com/areee/RiippuvaisApp) -Android-sovellus
 
 ### TIETA6 (Tietorakenteet)
-- [Tira2016 – Tietorakenteet-kurssin harjoitustyö](https://github.com/areee/Tira2016/)
+- [Tira2016](https://github.com/areee/Tira2016/): Tietorakenteet-kurssin harjoitustyö
 
 ### ITIY3 (Verkkojulkaisun perusteet)
 - Tekemäni tehtävät ja harjoitukset listattuna [yhteen HTML-dokumenttiin](http://people.uta.fi/~ay98625/itiy3/info.html)
