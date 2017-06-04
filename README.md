@@ -41,7 +41,7 @@ Lue lisää työtaustastani [LinkedIn-profiilistani](https://www.linkedin.com/in
 
 ### ITIY3 (Verkkojulkaisun perusteet)
 - Tekemäni tehtävät ja harjoitukset listattuna [yhteen HTML-dokumenttiin](http://people.uta.fi/~ay98625/itiy3/info.html)
-  - Tehtävät ja harjoitukset on koodattu `HTML`-ohjelmointikielellä ja osassa myös `CSS`:llä.
+  - Tehtävät ja harjoitukset on koodattu `HTML5`-ohjelmointikielellä ja osassa myös `CSS`:llä.
 
 
 Tässä oli vain muutamia nostoja tuotoksistani. Jos haluat lisätietoja meikäläisestä, tutustu [Github](https://github.com/areee/)- ja [LinkedIn](https://www.linkedin.com/in/arttuylh/)-profiileihini tai ota suoraan yhteyttä: arttu.ylhavuori(ät)hotmail.com
