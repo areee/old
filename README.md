@@ -9,7 +9,7 @@ Työskentelen parhaillaan Helsingin yliopistossa [tutkimusavustajan tittelillä]
 Lue lisää työtaustastani [LinkedIn-profiilistani](https://www.linkedin.com/in/arttuylh/) ja tutustu alle nostamiini tuotoksiini. Lisää tuotoksiani löytyy myös [Github-profiilistani](https://github.com/areee/).
 
 ### Ota yhteyttä ja seuraa
-- Sähköposti: arttu.ylhavuori ät cs.helsinki.fi
+- [Sähköposti](mailto:arttu.ylhavuori(at)cs.helsinki.fi)
 - [LinkedIn](https://www.linkedin.com/in/arttuylh/)
 - [Github](https://github.com/areee/)
 - [Twitter](https://twitter.com/arttuylh)
