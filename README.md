@@ -9,7 +9,7 @@ Työskentelen parhaillaan Helsingin yliopistossa [tutkimusavustajan tittelillä]
 Lue lisää työtaustastani [LinkedIn-profiilistani](https://www.linkedin.com/in/arttuylh/) ja tutustu alle nostamiini tuotoksiini. Lisää tuotoksiani löytyy myös [Github-profiilistani](https://github.com/areee/).
 
 ### Ota yhteyttä ja seuraa
-- [Sähköposti](mailto:arttu.ylhavuori(at)cs.helsinki.fi)
+- arttu.ylhavuori(at)cs.helsinki.fi
 - [LinkedIn](https://www.linkedin.com/in/arttuylh/)
 - [Github](https://github.com/areee/)
 - [Twitter](https://twitter.com/arttuylh)
@@ -40,4 +40,4 @@ Lue lisää työtaustastani [LinkedIn-profiilistani](https://www.linkedin.com/in
 ### ITIY3 (Verkkojulkaisun perusteet)
 - Tekemäni tehtävät ja harjoitukset listattuna [yhteen HTML-dokumenttiin](http://people.uta.fi/~ay98625/itiy3/info.html)
 
-Tässä oli vain muutamia nostoja tuotoksistani. Jos haluat lisätietoja meikäläisestä, tutustu [Github-profiiliini](https://github.com/areee/), [LinkedIn-profiiliini](https://www.linkedin.com/in/arttuylh/) tai [ota suoraan yhteyttä](mailto:arttu.ylhavuori(at)cs.helsinki.fi)!
+Tässä oli vain muutamia nostoja tuotoksistani. Jos haluat lisätietoja meikäläisestä, tutustu [Github-profiiliini](https://github.com/areee/), [LinkedIn-profiiliini](https://www.linkedin.com/in/arttuylh/) tai ota suoraan yhteyttä: arttu.ylhavuori(at)cs.helsinki.fi!
