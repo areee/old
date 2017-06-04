@@ -23,21 +23,25 @@ Lue lisää työtaustastani [LinkedIn-profiilistani](https://www.linkedin.com/in
 - [Suunnitteluharjoitus 2 (SH2)](https://github.com/areee/tiea1_sh2)
 
 ### TIEVA31 (Principles of Programming Graphical User Interfaces)
-- [Tehtävä 2.1](https://github.com/areee/tieva31_exercise2_1)
-  - React-JavaScript-kirjastolla koodattu pienoisohjelma.
+- [Tehtävä 2.1](https://github.com/areee/tieva31_exercise2_1)  
+  - `React JavaScript`-kirjastolla koodattu pienoisohjelma.
 - [Tehtävä 6.1](https://github.com/areee/tieva31_exercise6_1)
-  - Javan Swing-kirjastolla koodattu pienoisohjelma.
+  - `Java Swing` -kirjastolla koodattu pienoisohjelma.
 
 - Vinkki: Katso tehtävienannot projektien yhteydessä löytyvästä pdf-tiedostosta.
 - PS. Lisää TIEVA31-kurssin pienoisohjelmia löytyy Github-profiilini [julkisista repositorioista](https://github.com/areee?tab=repositories).
 
 ### TIEVA33 (Tietokoneavusteinen opetus)
 - [Näyttölaskuri](https://github.com/areee/RiippuvaisApp) -Android-sovellus
+  - Koodattu `Java`- ja `XML`-ohjelmointikielillä.
 
 ### TIETA6 (Tietorakenteet)
 - [Tira2016](https://github.com/areee/Tira2016/)-harjoitustyö
+  - Koodattu `Java`-ohjelmointikielellä hyödyntäen linkitetty binääripuu -tietorakennetta.
 
 ### ITIY3 (Verkkojulkaisun perusteet)
 - Tekemäni tehtävät ja harjoitukset listattuna [yhteen HTML-dokumenttiin](http://people.uta.fi/~ay98625/itiy3/info.html)
+  - Tehtävät ja harjoitukset on koodattu `HTML`-ohjelmointikielellä ja osassa myös `CSS`:llä.
+
 
 Tässä oli vain muutamia nostoja tuotoksistani. Jos haluat lisätietoja meikäläisestä, tutustu [Github](https://github.com/areee/)- ja [LinkedIn](https://www.linkedin.com/in/arttuylh/)-profiileihini tai ota suoraan yhteyttä: arttu.ylhavuori(ät)hotmail.com
