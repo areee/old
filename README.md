@@ -40,8 +40,9 @@ Lue lisää työtaustastani [LinkedIn-profiilistani](https://www.linkedin.com/in
   - Koodattu `Java`-ohjelmointikielellä hyödyntäen linkitetty binääripuu -tietorakennetta.
 
 ### ITIY3 (Verkkojulkaisun perusteet)
-- Tekemäni tehtävät ja harjoitukset listattuna [yhteen HTML-dokumenttiin](http://people.uta.fi/~ay98625/itiy3/info.html)
+- Tekemäni tehtävät ja harjoitukset listattuna [yhteen HTML-dokumenttiin](https://areee.github.io/itiy3/).
   - Tehtävät ja harjoitukset on koodattu `HTML5`-ohjelmointikielellä ja osassa myös `CSS`:llä.
+  - Myös lähdekoodi on tarkasteltavissa [Githubissa](https://github.com/areee/itiy3).
 
 
 Tässä oli vain muutamia nostoja tuotoksistani. Jos haluat lisätietoja meikäläisestä, tutustu [Github](https://github.com/areee/)- ja [LinkedIn](https://www.linkedin.com/in/arttuylh/)-profiileihini tai ota suoraan yhteyttä: arttu.ylhavuori(ät)hotmail.com
