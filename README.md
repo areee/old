@@ -28,7 +28,7 @@ Lue lisää työtaustastani [LinkedIn-profiilistani](https://www.linkedin.com/in
 - [Tehtävä 6.1](https://github.com/areee/tieva31_exercise6_1)
   - `Java Swing` -kirjastolla koodattu pienoisohjelma.
 
-- Vinkki: Katso tehtävienannot projektien yhteydessä löytyvästä pdf-tiedostosta.
+- Vinkki: Katso tehtävänannot projektien yhteydessä löytyvästä pdf-tiedostosta.
 - PS. Lisää TIEVA31-kurssin pienoisohjelmia löytyy Github-profiilini [julkisista repositorioista](https://github.com/areee?tab=repositories).
 
 ### TIEVA33 (Tietokoneavusteinen opetus)
