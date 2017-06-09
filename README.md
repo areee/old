@@ -10,7 +10,7 @@ Lue lisää työtaustastani [LinkedIn-profiilistani](https://www.linkedin.com/in
 
 ### Ota yhteyttä ja seuraa
 - arttu.ylhavuori(ät)hotmail.com
-- [LinkedIn](https://www.linkedin.com/in/arttuylh/)
+- <a href="https://www.linkedin.com/in/arttuylh/" target="_blank">LinkedIn</a>
 - [Github](https://github.com/areee/)
 - [Twitter](https://twitter.com/arttuylh)
 - [Instagram](https://www.instagram.com/arttuylh/)
